@@ -8,7 +8,7 @@ PayApp is a Java Spring Boot web application that simulates a digital wallet pla
 
 Users can register, manage personal wallets, perform money transfers and view transaction history through a secure web interface.
 
-This project was developed during the **Spring Advanced** course at **Software University (SoftUni)** and later refined as part of my Java Backend portfolio.
+This project was developed during the **Spring Advanced** course at **Software University (SoftUni)**.
 
 # Features
 
